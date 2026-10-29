@@ -1,0 +1,16 @@
+Asset Number,Item Name,Description,Category,Status,Designated Owner,Picture,Asset Code
+1,Chair 1,,Fix Asset,Good,Jose,pictures/chair.png,AT-01
+2,Chair 2,,Fix Asset,Good,Jose,pictures/chair.png,AT-02
+3,Chair 3,,Fix Asset,Good,Jose,pictures/chair.png,AT-03
+4,Chair 4,,Fix Asset,Good,Jose,pictures/chair.png,AT-04
+5,Chair 5,,Fix Asset,BAD,Jose,pictures/chair.png,AT-05
+6,Table 1,,Fix Asset,BAD,Jose,pictures/table.png,AT-06
+7,Table 2,,Fix Asset,Good,Jose,pictures/table.png,AT-07
+8,Table 3,,Fix Asset,Good,Jose,pictures/table.png,AT-08
+9,Table 4,,Fix Asset,Good,Jose,pictures/table.png,AT-09
+10,Table 5,,Fix Asset,Good,Jose,pictures/table.png,AT-10
+11,Computer 1,,Electronics,BAD,Jose,pictures/computer.png,AT-11
+12,Computer 2,,Electronics,Good,Maria,pictures/computer.png,AT-12
+13,Computer 3,,Electronics,Good,Maria,pictures/computer.png,AT-13
+14,Computer 4,,Electronics,Good,Maria,pictures/computer.png,AT-14
+15,Computer 5,,Electronics,Good,Maria,pictures/computer.png,AT-15

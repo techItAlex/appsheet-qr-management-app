@@ -4,8 +4,9 @@ Activity 5, Asset Tag. A mobile app built in Google AppSheet (free prototype pla
 
 ## Try the app (for the instructor)
 
-> **App link:** `PASTE YOUR APPSHEET APP LINK HERE`
-> **Data source (Google Sheet):** `PASTE YOUR GOOGLE SHEET LINK HERE`
+> **App link (run the app):** https://www.appsheet.com/start/9475c4fd-a404-4142-b68f-12eb9c28e9f7
+> **App editor (see how it is built, owner access only):** https://www.appsheet.com/template/appdef?appId=9475c4fd-a404-4142-b68f-12eb9c28e9f7&appName=AssetTag-826164230
+> **Data source (Google Sheet):** https://docs.google.com/spreadsheets/d/18tprcjfF4z10OETmZACRf5RWZAXqDU_I07C9DLHEqtA/edit?usp=sharing
 
 You need two things: the app and a QR code to scan.
 
